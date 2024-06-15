@@ -1,0 +1,3 @@
+[submodule "Khayu/vendor/spdlog"]
+	path = Khayu/vendor/spdlog
+	url = https://github.com/gabime/spdlog
